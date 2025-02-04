@@ -106,7 +106,7 @@ Once you have the three API keys, you can add them to the IPython notebook of th
 
 ## Resources
 
-For a detailed description of this code, check out ProjectPro’s blog: [LLM Data Analysis Agent](https://www.projectpro.io/article/llm-data-analysis-agent/1093)
+For a detailed description of this code, check out ProjectPro’s blog: [How to Build an LLM-powered Data Analysis Agent](https://www.projectpro.io/article/llm-data-analysis-agent/1093)
 
 ## Special Thanks
 
