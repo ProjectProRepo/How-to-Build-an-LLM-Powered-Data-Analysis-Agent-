@@ -104,7 +104,9 @@ To get started with the LLM-Powered Data Analysis Agent, you'll need to sign up 
 
 Once you have the three API keys, you can add them to the IPython notebook of this repository and start running the code in a Google Colab notebook. Happy Coding! :)
 
-For a detailed description of this code, check out ProjectPro’s blog.
+## Resources
+
+For a detailed description of this code, check out ProjectPro’s blog: [LLM Data Analysis Agent](https://www.projectpro.io/article/llm-data-analysis-agent/1093)
 
 ## Special Thanks
 
