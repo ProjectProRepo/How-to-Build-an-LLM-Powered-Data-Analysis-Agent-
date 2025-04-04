@@ -15,10 +15,6 @@ This repository showcases the creation of an LLM-Powered Data Analysis Agent, le
 - **Price Analyst Agent** for market analysis based on historical prices.
 - **Report Writer Agent** that synthesizes analyses into a final report.
 
-## Overview
-
-This repository contains an LLM-powered data analysis agent designed to handle cryptocurrency analysis using multiple tools and agents. The system is built around various components that work together to gather, analyze, and report on cryptocurrency news and price trends. Below is an overview of the key elements that drive the data analysis pipeline.
-
 ## Tools
 
 ### Search Tool (Exa API)
