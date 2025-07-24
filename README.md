@@ -1,4 +1,4 @@
-# LLM-Powered Data Analysis Agent
+# LLM-Powered Data Analysis Agent for Cryptocurrency Analysis
 
 This repository showcases the creation of an LLM-Powered Data Analysis Agent, leveraging powerful tools such as LangChain, Groq, Llama 3, and Exa for efficient data handling and analysis. It provides a framework for analyzing cryptocurrencies. A user can ask for a cryptocurrency report, which triggers an agent to gather relevant news, another agent to analyze prices, and then a final report summarizing the market and making predictions.
 
